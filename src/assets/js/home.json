@@ -1,0 +1,62 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "img_url": "http://cms-bucket.nosdn.127.net/08dd2d3b7759492d9a9e4b75fd1fa0b120180308095423.jpeg"
+    },
+    {
+      "id": 2,
+      "img_url": "http://cms-bucket.nosdn.127.net/665e8e9d27424b1cb1da0b1a97bea3a320180322105517.jpeg"
+    },
+    {
+      "id": 3,
+      "img_url": "http://cms-bucket.nosdn.127.net/22a9b53100a74e74a18a81d1e60eb8aa20180228161941.jpeg"
+    }
+  ],
+  "latestUpdated": [
+    {
+      "id": 1,
+      "title": "北野武的小酒馆小酒馆小酒馆小酒馆小酒馆小酒馆",
+      "authors": "北野武",
+      "country": "日",
+      "img_url": "https://easyreadfs.nosdn.127.net/3IYzi12_IqsCQtdnL8ZkVw==/8796093024250327622?imageView&thumbnail=240y336"
+    },
+    {
+      "id": 2,
+      "title": "极致阅读手册",
+      "authors": "高荣成,朱莉",
+      "country": "韩",
+      "img_url": "https://easyreadfs.nosdn.127.net/3Jy8c_dNY7IbNBHKC80A7Q==/8796093024057558107?imageView&thumbnail=240y336"
+    },
+    {
+      "id": 3,
+      "title": "失踪的总统",
+      "authors": ["比尔·克林顿", "詹姆斯·帕特森"],
+      "country": "美",
+      "img_url": "https://easyreadfs.nosdn.127.net/5ghxnVRhjhuosz3cvNLupQ==/8796093024305086150?imageView&thumbnail=240y336"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 1,
+      "title": "北野武的小酒馆小酒馆小酒馆小酒馆小酒馆小酒馆",
+      "authors": "北野武",
+      "country": "日",
+      "img_url": "https://easyreadfs.nosdn.127.net/Ucz2otDy0x5Fi6eYtWOQaw==/8796093024270256484?imageView&thumbnail=240y336"
+    },
+    {
+      "id": 2,
+      "title": "极致阅读手册",
+      "authors": "高荣成,朱莉",
+      "country": "韩",
+      "img_url": "https://easyreadfs.nosdn.127.net/3Jy8c_dNY7IbNBHKC80A7Q==/8796093024057558107?imageView&thumbnail=240y336"
+    },
+    {
+      "id": 3,
+      "title": "失踪的总统",
+      "authors": ["比尔·克林顿", "詹姆斯·帕特森"],
+      "country": "美",
+      "img_url": "https://easyreadfs.nosdn.127.net/5ghxnVRhjhuosz3cvNLupQ==/8796093024305086150?imageView&thumbnail=240y336"
+    }
+  ]
+}
