@@ -15,7 +15,7 @@ Vue.use(VueAwesomeSwiper)
 Vue.use(VueResource)
 
 export default new Router({
-  mode: 'history',
+  mode: 'hash',
   routes: [
     {
       path: '/',
