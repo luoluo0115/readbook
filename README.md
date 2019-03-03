@@ -1,6 +1,9 @@
 # my-app
 
-> A Vue.js project
+> 仿网易读书app
+
+# 在线预览
+https://luoluo0115.github.io/readbook/dist/
 
 ## Build Setup
 
